@@ -1,2 +1,2 @@
 # Lakshmeesh_Gowda
-Hello World , this is my profile
+Hello , this is my profile
