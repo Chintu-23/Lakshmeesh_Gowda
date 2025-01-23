@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chintu-23" alt="chintu-23" /></a> </p>
 
-<h3 align="left">Connect with me:lakkichintu.23@gmail.com</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3>
+<p align="left">lakkichintu.23@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
