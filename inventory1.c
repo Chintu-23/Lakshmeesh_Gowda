@@ -14,7 +14,7 @@ typedef struct {
 Product inventory[MAX_PRODUCTS];
 int productCount = 0;
 
-// Function Prototypes
+
 void addProduct();
 void displayProducts();
 void updateProduct();
